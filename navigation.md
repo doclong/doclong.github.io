@@ -1,4 +1,4 @@
-# NOTEBOOK
+# 龙博士教育
 
 <!-- [About](about.md) -->
 
@@ -26,7 +26,7 @@
 
 [gimmick:theme](yeti)
 [gimmick: math]()
-[gimmick:Disqus](zlongust)
+
 <!-- mathjax config similar to math.stackexchange -->
 
 <script type="text/x-mathjax-config">
