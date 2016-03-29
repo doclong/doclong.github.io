@@ -1,11 +1,13 @@
-# About
+# 简介
 
-Welcome to visit my online notebook! 
+**龙博士学习加油站，为您学业添精彩**
 
-I'd like to share with you three important notes that, in my own viewpoint, reveal all the secrets behind in English.
+我从小喜爱数学，高考数学146，物理147，数学成绩曾常年在川沙中学获得年级第一。一路走来有很多学习心得，加之多年海外留学经历对英语也有全新的理解。
 
-1. [A Though on English](english/a_thought_on_english.md)
-2. [Phonetic Phonics](english/phonetic_phonics.md)
-3. [Grim's Law](english/grimms_law.md)
+2016年初回国后开始从事教育事业，现每周六在合庆教学点开设初中各年级数学辅导班，一对五小班教学，尚有虚席，额满为止。
 
-Hope you enjoy them! 
+欢迎来电咨询：17051212408 或 13641825921
+联系人：龙博士
+教学点：合庆镇庆利路185弄17号602室
+收费标准：两个半小时200元
+教学内容：主讲初中各年级数学并免费附送英语学习方法
